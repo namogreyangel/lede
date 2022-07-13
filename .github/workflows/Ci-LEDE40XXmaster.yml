@@ -183,6 +183,18 @@ jobs:
           CONFIG_PACKAGE_luci-app-passwall2_INCLUDE_Shadowsocks_Rust_Client=y
           CONFIG_PACKAGE_luci-app-passwall2_INCLUDE_ShadowsocksR_Libev_Client=y
           CONFIG_PACKAGE_luci-app-passwall2_INCLUDE_Simple_Obfs=y        
+          CONFIG_PACKAGE_qbittorrent=y
+          CONFIG_PACKAGE_qt5-core=y
+          CONFIG_PACKAGE_qt5-network=y
+          CONFIG_PACKAGE_qt5-sql=y
+          CONFIG_PACKAGE_qt5-xml=y
+          CONFIG_PACKAGE_luci-app-qbittorrent=y
+          
+          
+          
+          
+          
+          
           EOF
 
           # LuCI主题:
